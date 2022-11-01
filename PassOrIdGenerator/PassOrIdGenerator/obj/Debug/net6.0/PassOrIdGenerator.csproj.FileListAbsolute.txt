@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\bin\Debug\net6.0\PassOrIdGenerator.exe
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\bin\Debug\net6.0\PassOrIdGenerator.deps.json
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\bin\Debug\net6.0\PassOrIdGenerator.runtimeconfig.json
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\bin\Debug\net6.0\PassOrIdGenerator.dll
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\bin\Debug\net6.0\PassOrIdGenerator.pdb
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\PassOrIdGenerator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\PassOrIdGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\PassOrIdGenerator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\PassOrIdGenerator.AssemblyInfo.cs
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\PassOrIdGenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\PassOrIdGenerator.dll
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\refint\PassOrIdGenerator.dll
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\PassOrIdGenerator.pdb
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\PassOrIdGenerator.genruntimeconfig.cache
+C:\Users\user\Desktop\ForGitHub\PassOrIdGenerator\PassOrIdGenerator\obj\Debug\net6.0\ref\PassOrIdGenerator.dll
